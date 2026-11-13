@@ -1,0 +1,2 @@
+ACC001, Mary Mueni, Balance: 23000.0
+ACC002, James Mwangi, Balance: 15000

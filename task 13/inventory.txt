@@ -1,0 +1,4 @@
+Sugar, P001, Price: 150.0, Qty: 100, Value: 15000.0
+Flour, P002, Price: 120.0, Qty: 200, Value: 24000.0
+Cooking Oil, P003, Price: 350.0, Qty: 50, Value: 17500.0
+TOTAL VALUE: 56500.0

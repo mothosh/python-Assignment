@@ -1,0 +1,3 @@
+Mary Mueni, BSCIT-001/2026, BSCIT, Mark: 85, Grade: A
+James Mwangi, BSCIT-002/2026, BBIT, Mark: 62, Grade: B
+Ann Wanjiru, BSCIT-003/2026, BCA, Mark: 45, Grade: D
